@@ -31,6 +31,6 @@ var(mis_dades$qsec)
 
 #Desviación típica
 sd(mis_dades$cyl)
-
+k
 
 
